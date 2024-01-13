@@ -1,5 +1,6 @@
 # first-demo
-This is my first Git respo 
+
+This is my first Git respo
 <br>
 
-Author - prakash chandra joshi
+Author - prakash chandra joshi ji
